@@ -19,7 +19,7 @@ To get started, create a [Firebase](https://console.firebase.google.com/) and [S
 You can download the boiler plate code by selecting ***Download or Clone*** at the top of this page or clone the folder into a fresh folder by entering the following command
 
 ```
-$ git clone https://github.com/SalceMLH/mlh-hackathon-snap-kit-starter.git
+$ git clone https://github.com/mlh/mlh-hackathon-snap-kit-starter.git
 $ cd mlh-hackathon-snap-kit-starter
 ```
 
